@@ -1,0 +1,183 @@
+Feb 19 07:12:30 10.71.57.0 tmp99085261-6283 Connection from 10.71.57.0 port 14218 on 82.165.81.187 port 22
+Feb 19 07:12:30 10.71.57.0 tmp99085261-6283 Accepted password for tmp99085261-6283 from 10.71.57.0 port 14218 ssh2
+Feb 19 07:12:30 10.71.57.0 tmp99085261-6283 Starting session: subsystem 'sftp' for tmp99085261-6283 from 10.71.57.0 port 14218
+Feb 19 07:12:31 10.71.57.0 tmp99085261-6283 session opened for local user tmp99085261-6283 from [10.71.57.0]
+Feb 19 07:25:14 10.71.57.0 u99085261 Connection from 10.71.57.0 port 39758 on 82.165.81.187 port 22
+Feb 19 07:25:14 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 39758 ssh2
+Feb 19 07:25:14 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 39758
+Feb 19 07:25:14 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 07:26:39 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 07:26:39 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 07:27:48 10.71.57.0 u99085261 Connection from 10.71.57.0 port 51046 on 82.165.81.187 port 22
+Feb 19 07:27:48 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 51046 ssh2
+Feb 19 07:27:48 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 51046
+Feb 19 07:27:48 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 07:28:15 10.71.57.0 u99085261 Connection from 10.71.57.0 port 63808 on 82.165.81.187 port 22
+Feb 19 07:28:15 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 63808 ssh2
+Feb 19 07:28:15 10.71.57.0 u99085261 Connection from 10.71.57.0 port 63806 on 82.165.81.187 port 22
+Feb 19 07:28:15 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 63806 ssh2
+Feb 19 07:28:15 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 63808
+Feb 19 07:28:15 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 63806
+Feb 19 07:28:15 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 07:28:15 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 07:28:34 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:34 10.71.57.0 u99085261 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:34 10.71.57.0 u99085261 open "/project.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:34 10.71.57.0 u99085261 close "/index.html" bytes read 0 written 33028
+Feb 19 07:28:34 10.71.57.0 u99085261 [10.71.57.0|put|0|33028|0|0|0|2f696e6465782e68746d6c|]
+Feb 19 07:28:34 10.71.57.0 u99085261 close "/project.html" bytes read 0 written 11880
+Feb 19 07:28:34 10.71.57.0 u99085261 [10.71.57.0|put|0|11880|0|0|0|2f70726f6a6563742e68746d6c|]
+Feb 19 07:28:34 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:34 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:34 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:34 10.71.57.0 u99085261 mkdir name "/capture d'\303\251cran" mode 0777
+Feb 19 07:28:34 10.71.57.0 u99085261 [10.71.57.0|mkdir|0|0|511|0|0|2f63617074757265206427c3a96372616e|]
+Feb 19 07:28:35 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:35 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:35 10.71.57.0 u99085261 open "/capture d'\303\251cran/Annotation 2020-01-31 162240.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:35 10.71.57.0 u99085261 open "/capture d'\303\251cran/header bg.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:35 10.71.57.0 u99085261 close "/capture d'\303\251cran/Annotation 2020-01-31 162240.jpg" bytes read 0 written 146956
+Feb 19 07:28:35 10.71.57.0 u99085261 [10.71.57.0|put|0|146956|0|0|0|2f63617074757265206427c3a96372616e2f416e6e6f746174696f6e20323032302d30312d3331203136323234302e6a7067|]
+Feb 19 07:28:35 10.71.57.0 u99085261 close "/capture d'\303\251cran/header bg.jpg" bytes read 0 written 241499
+Feb 19 07:28:35 10.71.57.0 u99085261 [10.71.57.0|put|0|241499|0|0|0|2f63617074757265206427c3a96372616e2f6865616465722062672e6a7067|]
+Feb 19 07:28:35 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:35 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:35 10.71.57.0 u99085261 open "/capture d'\303\251cran/logo1.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:35 10.71.57.0 u99085261 open "/capture d'\303\251cran/logo2.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:35 10.71.57.0 u99085261 close "/capture d'\303\251cran/logo1.jpg" bytes read 0 written 21184
+Feb 19 07:28:35 10.71.57.0 u99085261 [10.71.57.0|put|0|21184|0|0|0|2f63617074757265206427c3a96372616e2f6c6f676f312e6a7067|]
+Feb 19 07:28:35 10.71.57.0 u99085261 close "/capture d'\303\251cran/logo2.jpg" bytes read 0 written 23402
+Feb 19 07:28:35 10.71.57.0 u99085261 [10.71.57.0|put|0|23402|0|0|0|2f63617074757265206427c3a96372616e2f6c6f676f322e6a7067|]
+Feb 19 07:28:35 10.71.57.0 u99085261 open "/css/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:35 10.71.57.0 u99085261 close "/css/styles.css" bytes read 0 written 47265
+Feb 19 07:28:35 10.71.57.0 u99085261 [10.71.57.0|put|0|47265|0|0|0|2f6373732f7374796c65732e637373|]
+Feb 19 07:28:37 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:37 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:37 10.71.57.0 u99085261 open "/images/techno/hadoop.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:37 10.71.57.0 u99085261 open "/images/techno/js.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:37 10.71.57.0 u99085261 close "/images/techno/js.png" bytes read 0 written 20722
+Feb 19 07:28:37 10.71.57.0 u99085261 [10.71.57.0|put|0|20722|0|0|0|2f696d616765732f746563686e6f2f6a732e706e67|]
+Feb 19 07:28:37 10.71.57.0 u99085261 close "/images/techno/hadoop.png" bytes read 0 written 55233
+Feb 19 07:28:37 10.71.57.0 u99085261 [10.71.57.0|put|0|55233|0|0|0|2f696d616765732f746563686e6f2f6861646f6f702e706e67|]
+Feb 19 07:28:37 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:37 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:37 10.71.57.0 u99085261 open "/images/techno/sql.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:37 10.71.57.0 u99085261 open "/images/techno/vuejs.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:28:37 10.71.57.0 u99085261 close "/images/techno/sql.png" bytes read 0 written 30280
+Feb 19 07:28:37 10.71.57.0 u99085261 [10.71.57.0|put|0|30280|0|0|0|2f696d616765732f746563686e6f2f73716c2e706e67|]
+Feb 19 07:28:37 10.71.57.0 u99085261 close "/images/techno/vuejs.png" bytes read 0 written 7937
+Feb 19 07:28:37 10.71.57.0 u99085261 [10.71.57.0|put|0|7937|0|0|0|2f696d616765732f746563686e6f2f7675656a732e706e67|]
+Feb 19 07:28:37 10.71.57.0 u99085261 sent status No such file
+Feb 19 07:28:37 10.71.57.0 u99085261 mkdir name "/images/techno/Nouveau dossier" mode 0777
+Feb 19 07:28:37 10.71.57.0 u99085261 [10.71.57.0|mkdir|0|0|511|0|0|2f696d616765732f746563686e6f2f4e6f757665617520646f7373696572|]
+Feb 19 07:28:49 10.71.57.0 u99085261 remove name "/capture d'\303\251cran/Annotation 2020-01-31 162240.jpg"
+Feb 19 07:28:49 10.71.57.0 u99085261 [10.71.57.0|rm|0|0|0|0|0|2f63617074757265206427c3a96372616e2f416e6e6f746174696f6e20323032302d30312d3331203136323234302e6a7067|]
+Feb 19 07:28:49 10.71.57.0 u99085261 remove name "/capture d'\303\251cran/header bg.jpg"
+Feb 19 07:28:49 10.71.57.0 u99085261 [10.71.57.0|rm|0|0|0|0|0|2f63617074757265206427c3a96372616e2f6865616465722062672e6a7067|]
+Feb 19 07:28:49 10.71.57.0 u99085261 remove name "/capture d'\303\251cran/logo1.jpg"
+Feb 19 07:28:49 10.71.57.0 u99085261 [10.71.57.0|rm|0|0|0|0|0|2f63617074757265206427c3a96372616e2f6c6f676f312e6a7067|]
+Feb 19 07:28:49 10.71.57.0 u99085261 remove name "/capture d'\303\251cran/logo2.jpg"
+Feb 19 07:28:49 10.71.57.0 u99085261 [10.71.57.0|rm|0|0|0|0|0|2f63617074757265206427c3a96372616e2f6c6f676f322e6a7067|]
+Feb 19 07:28:49 10.71.57.0 u99085261 rmdir name "/capture d'\303\251cran"
+Feb 19 07:28:49 10.71.57.0 u99085261 [10.71.57.0|rmdir|0|0|0|0|0|2f63617074757265206427c3a96372616e|]
+Feb 19 07:29:38 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 07:29:38 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 07:29:38 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 07:29:38 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 07:37:06 10.71.57.0 u99085261 Connection from 10.71.57.0 port 41246 on 82.165.81.187 port 22
+Feb 19 07:37:06 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 41246 ssh2
+Feb 19 07:37:06 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 41246
+Feb 19 07:37:06 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 07:37:06 10.71.57.0 u99085261 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 07:37:07 10.71.57.0 u99085261 close "/index.html" bytes read 0 written 33028
+Feb 19 07:37:07 10.71.57.0 u99085261 [10.71.57.0|put|1|33028|0|0|0|2f696e6465782e68746d6c|]
+Feb 19 07:38:07 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 07:38:07 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 07:49:34 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 07:49:35 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 07:50:21 10.71.57.0 tmp99085261-940 Connection from 10.71.57.0 port 25072 on 82.165.81.187 port 22
+Feb 19 07:50:21 10.71.57.0 tmp99085261-940 Accepted password for tmp99085261-940 from 10.71.57.0 port 25072 ssh2
+Feb 19 07:50:21 10.71.57.0 tmp99085261-6283 open "/index.html" flags READ mode 0666
+Feb 19 07:50:21 10.71.57.0 tmp99085261-6283 close "/index.html" bytes read 33028 written 0
+Feb 19 07:50:21 10.71.57.0 tmp99085261-6283 [10.71.57.0|get|0|33028|0|0|0|2f696e6465782e68746d6c|]
+Feb 19 08:40:45 10.71.57.0 u99085261 Connection from 10.71.57.0 port 29272 on 82.165.81.187 port 22
+Feb 19 08:40:46 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 29272 ssh2
+Feb 19 08:40:46 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 29272
+Feb 19 08:40:46 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 08:40:55 10.71.57.0 u99085261 Connection from 10.71.57.0 port 34232 on 82.165.81.187 port 22
+Feb 19 08:40:55 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 34232 ssh2
+Feb 19 08:40:55 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 34232
+Feb 19 08:40:55 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 08:40:55 10.71.57.0 u99085261 sent status No such file
+Feb 19 08:40:55 10.71.57.0 u99085261 open "/.htaccess" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 19 08:40:55 10.71.57.0 u99085261 close "/.htaccess" bytes read 0 written 107
+Feb 19 08:40:55 10.71.57.0 u99085261 [10.71.57.0|put|0|107|0|0|0|2f2e6874616363657373|]
+Feb 19 08:41:55 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 08:41:56 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 08:42:19 10.71.57.0 u99085261 session closed for local user u99085261 from [10.71.57.0]
+Feb 19 08:42:19 10.71.57.0 u99085261 Connection closed by 10.71.57.0
+Feb 19 08:52:01 10.71.57.0 tmp99085261-6283 Connection closed by 10.71.57.0
+Feb 19 08:52:01 10.71.57.0 tmp99085261-6283 session closed for local user tmp99085261-6283 from [10.71.57.0]
+Feb 19 08:52:01 10.71.57.0 tmp99085261-940 Connection closed by 10.71.57.0
+Feb 19 09:13:21 10.71.57.0 u99085261 Connection from 10.71.57.0 port 12524 on 82.165.81.187 port 22
+Feb 19 09:13:23 10.71.57.0 u99085261 Failed password for u99085261 from 10.71.57.0 port 12524 ssh2
+Feb 19 09:13:57 10.71.57.0 u99085261 Connection from 10.71.57.0 port 36156 on 82.165.81.187 port 22
+Feb 19 09:13:58 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 36156 ssh2
+Feb 19 09:13:58 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 36156
+Feb 19 09:13:58 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 09:14:13 10.71.57.0 u99085261 Connection from 10.71.57.0 port 45328 on 82.165.81.187 port 22
+Feb 19 09:14:13 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 45328 ssh2
+Feb 19 09:14:13 10.71.57.0 u99085261 Connection from 10.71.57.0 port 45330 on 82.165.81.187 port 22
+Feb 19 09:14:13 10.71.57.0 u99085261 Accepted password for u99085261 from 10.71.57.0 port 45330 ssh2
+Feb 19 09:14:13 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 45328
+Feb 19 09:14:13 10.71.57.0 u99085261 Starting session: subsystem 'sftp' for u99085261 from 10.71.57.0 port 45330
+Feb 19 09:14:13 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 09:14:14 10.71.57.0 u99085261 session opened for local user u99085261 from [10.71.57.0]
+Feb 19 09:14:16 10.71.57.0 u99085261 sent status No such file
+Feb 19 09:14:26 10.71.57.0 u99085261 open "/privacy-policy.html" flags READ mode 0666
+Feb 19 09:14:26 10.71.57.0 u99085261 close "/privacy-policy.html" bytes read 24842 written 0
+Feb 19 09:14:26 10.71.57.0 u99085261 [10.71.57.0|get|0|24842|0|0|0|2f707269766163792d706f6c6963792e68746d6c|]
+Feb 19 09:14:37 10.71.57.0 u99085261 open "/images/equipe/fred.png" flags READ mode 0666
+Feb 19 09:14:37 10.71.57.0 u99085261 open "/images/equipe/gilles.jpg" flags READ mode 0666
+Feb 19 09:14:37 10.71.57.0 u99085261 close "/images/equipe/gilles.jpg" bytes read 258143 written 0
+Feb 19 09:14:37 10.71.57.0 u99085261 [10.71.57.0|get|0|258143|0|0|0|2f696d616765732f6571756970652f67696c6c65732e6a7067|]
+Feb 19 09:14:37 10.71.57.0 u99085261 close "/images/equipe/fred.png" bytes read 191322 written 0
+Feb 19 09:14:37 10.71.57.0 u99085261 [10.71.57.0|get|0|191322|0|0|0|2f696d616765732f6571756970652f667265642e706e67|]
+Feb 19 09:14:38 10.71.57.0 u99085261 open "/images/techno/sql.jpg" flags READ mode 0666
+Feb 19 09:14:38 10.71.57.0 u99085261 open "/images/techno/hadoop.jpg" flags READ mode 0666
+Feb 19 09:14:38 10.71.57.0 u99085261 close "/images/techno/sql.jpg" bytes read 56142 written 0
+Feb 19 09:14:38 10.71.57.0 u99085261 [10.71.57.0|get|0|56142|0|0|0|2f696d616765732f746563686e6f2f73716c2e6a7067|]
+Feb 19 09:14:38 10.71.57.0 u99085261 close "/images/techno/hadoop.jpg" bytes read 100778 written 0
+Feb 19 09:14:38 10.71.57.0 u99085261 [10.71.57.0|get|0|100778|0|0|0|2f696d616765732f746563686e6f2f6861646f6f702e6a7067|]
+Feb 19 09:14:38 10.71.57.0 u99085261 open "/logs/access.log.07.7.gz" flags READ mode 0666
+Feb 19 09:14:38 10.71.57.0 u99085261 open "/logs/access.log.07.4.gz" flags READ mode 0666
+Feb 19 09:14:38 10.71.57.0 u99085261 close "/logs/access.log.07.7.gz" bytes read 1773 written 0
+Feb 19 09:14:38 10.71.57.0 u99085261 [10.71.57.0|get|0|1773|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e372e677a|]
+Feb 19 09:14:38 10.71.57.0 u99085261 close "/logs/access.log.07.4.gz" bytes read 745 written 0
+Feb 19 09:14:38 10.71.57.0 u99085261 [10.71.57.0|get|0|745|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e342e677a|]
+Feb 19 09:14:38 10.71.57.0 u99085261 open "/logs/access.log.07.2.gz" flags READ mode 0666
+Feb 19 09:14:38 10.71.57.0 u99085261 open "/logs/access.log.05.gz" flags READ mode 0666
+Feb 19 09:14:38 10.71.57.0 u99085261 close "/logs/access.log.07.2.gz" bytes read 4411 written 0
+Feb 19 09:14:38 10.71.57.0 u99085261 [10.71.57.0|get|0|4411|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e322e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/access.log.05.gz" bytes read 6487 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|1|6487|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/access.log.08.3" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/access.log.08.2.gz" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/access.log.08.3" bytes read 180694 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|0|180694|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e33|]
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/access.log.08.2.gz" bytes read 1726 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|0|1726|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e322e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/access.log.08.1.gz" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/access.log.06.gz" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/access.log.08.1.gz" bytes read 1579 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|0|1579|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e312e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/access.log.06.gz" bytes read 3900 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|0|3900|0|0|0|2f6c6f67732f6163636573732e6c6f672e30362e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/sftp.log.07.gz" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/access.log.02.gz" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/sftp.log.07.gz" bytes read 5765 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|0|5765|0|0|0|2f6c6f67732f736674702e6c6f672e30372e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 close "/logs/access.log.02.gz" bytes read 5336 written 0
+Feb 19 09:14:39 10.71.57.0 u99085261 [10.71.57.0|get|0|5336|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/sftp.log" flags READ mode 0666
+Feb 19 09:14:39 10.71.57.0 u99085261 open "/logs/access.log.07.5.gz" flags READ mode 0666
